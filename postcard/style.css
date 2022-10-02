@@ -1,7 +1,7 @@
 /* aqui modifico el espacio del trabajo */
 body{
     background-color: black;
-    font-family: ;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 
@@ -16,7 +16,7 @@ body{
 .seccion_1{
     display: flex;
     justify-content: space-between;
-    font-size: ;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 .img{
@@ -33,12 +33,20 @@ body{
     padding: 0px 30px 20px 0px;
 }
 
+/* aqui esta el formulario */
 .lado_derecho{
     padding: 15px 20px 20px 0px;
+}
+
+.formulario_1{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
 }
 
 /* Tercera Seccion */
 .seccion_3{
     display: flex;
     justify-content: center;
+    font-family: 'Merriweather Sans', sans-serif;
 }
