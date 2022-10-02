@@ -1,0 +1,44 @@
+/* aqui modifico el espacio del trabajo */
+body{
+    background-color: black;
+    font-family: ;
+}
+
+
+.hoja_blanca{
+    background-color: white;
+    margin: 170px 230px 170px 230px;
+    padding: 25px ;
+}
+
+/* A partir de aqui modifico el contenido del postcard */
+/* primera seccion */
+.seccion_1{
+    display: flex;
+    justify-content: space-between;
+    font-size: ;
+}
+
+.img{
+    height: 85px;
+    width: 85px;
+}
+
+/* segunda seccion */
+.seccion_2{
+    display: flex;   
+}
+
+.lado_izquierdo{
+    padding: 0px 30px 20px 0px;
+}
+
+.lado_derecho{
+    padding: 15px 20px 20px 0px;
+}
+
+/* Tercera Seccion */
+.seccion_3{
+    display: flex;
+    justify-content: center;
+}
